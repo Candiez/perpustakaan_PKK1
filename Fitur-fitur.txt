@@ -1,0 +1,16 @@
+FITUR ADMIN
+  - CRUD data siswa
+  - CRUD data buku
+  - CRUD Transaksi Peminjaman
+  - CRUD Transaksi Pengembalian
+  
+FITUR USER
+  - Transaksi Peminjaman
+  - Transaksi Pengembalian
+  
+FITUR UMUM
+  - Login
+  - Logout
+  - Dashboard
+  - Pesan
+  
