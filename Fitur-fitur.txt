@@ -1,10 +1,11 @@
 FITUR ADMIN
-  - CRUD data siswa
-  - CRUD data buku
+  - CRUD Data Siswa
+  - CRUD Data Buku
   - CRUD Transaksi Peminjaman
   - CRUD Transaksi Pengembalian
   
 FITUR USER
+  - Transaksi Pra Peminjaman
   - Transaksi Peminjaman
   - Transaksi Pengembalian
   
